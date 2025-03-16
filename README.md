@@ -25,10 +25,10 @@ Below are some loss curves and sample scenarios from CARLA to illustrate the mod
 ```
 
 ### CARLA Simulation Scene
-![CARLA Simulation Scene]([carla simulation scene.png](https://github.com/only-stable/FL-DDPG_JICV/blob/8700114353ff762a454aae045ba2225c7db566ae/carla%20simulation%20scene.png))
+([carla simulation scene.png](https://github.com/only-stable/FL-DDPG_JICV/blob/8700114353ff762a454aae045ba2225c7db566ae/carla%20simulation%20scene.png))
 
 ### Training Logs
-![Training Logs](d228573c181512399ee9b81d4b069dc.png)
+([d228573c181512399ee9b81d4b069dc.png](https://github.com/only-stable/FL-DDPG_JICV/blob/12e7e644a9262939f411c067a55172503c04a620/training%20logs.png))
 
 ## Citation
 ```markdown
