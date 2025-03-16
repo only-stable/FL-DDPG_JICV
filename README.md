@@ -25,7 +25,7 @@ Below are some loss curves and sample scenarios from CARLA to illustrate the mod
 ```
 
 ### CARLA Simulation Scene
-![CARLA Simulation Scene](b42c3fd84092b9d0daa18bb119742b9.png)
+![CARLA Simulation Scene](carla simulation scene.png)
 
 ### Training Logs
 ![Training Logs](d228573c181512399ee9b81d4b069dc.png)
